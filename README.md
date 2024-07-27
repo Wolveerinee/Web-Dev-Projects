@@ -1,6 +1,5 @@
-I wanted to share with you a compilation of my Java projects. I've organized them neatly in a folder for easy access and reference.
+I wanted to share with you a compilation of my Web-Dev projects. I've organized them neatly in a folder for easy access and reference.
 
-Folder Name: Java_Projects
 
 Contents:
 
